@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study_UltraGrid", "Study_Ul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study_Database", "Study_Database\Study_Database.csproj", "{AC14493D-6186-4113-A175-D62E7861EA37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study_CSharp", "Study_CSharp\Study_CSharp.csproj", "{BE1AE44E-7D7A-4814-8125-CB339BB8EAF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{AC14493D-6186-4113-A175-D62E7861EA37}.Debug|x86.Build.0 = Debug|x86
 		{AC14493D-6186-4113-A175-D62E7861EA37}.Release|x86.ActiveCfg = Release|x86
 		{AC14493D-6186-4113-A175-D62E7861EA37}.Release|x86.Build.0 = Release|x86
+		{BE1AE44E-7D7A-4814-8125-CB339BB8EAF8}.Debug|x86.ActiveCfg = Debug|x86
+		{BE1AE44E-7D7A-4814-8125-CB339BB8EAF8}.Debug|x86.Build.0 = Debug|x86
+		{BE1AE44E-7D7A-4814-8125-CB339BB8EAF8}.Release|x86.ActiveCfg = Release|x86
+		{BE1AE44E-7D7A-4814-8125-CB339BB8EAF8}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
