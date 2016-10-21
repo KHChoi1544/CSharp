@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study_UltraGrid", "Study_UltraGrid\Study_UltraGrid.csproj", "{4C738958-9466-4884-876F-DE92CF87F602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study_Database", "Study_Database\Study_Database.csproj", "{AC14493D-6186-4113-A175-D62E7861EA37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C738958-9466-4884-876F-DE92CF87F602}.Debug|x86.ActiveCfg = Debug|x86
+		{4C738958-9466-4884-876F-DE92CF87F602}.Debug|x86.Build.0 = Debug|x86
+		{4C738958-9466-4884-876F-DE92CF87F602}.Release|x86.ActiveCfg = Release|x86
+		{4C738958-9466-4884-876F-DE92CF87F602}.Release|x86.Build.0 = Release|x86
+		{AC14493D-6186-4113-A175-D62E7861EA37}.Debug|x86.ActiveCfg = Debug|x86
+		{AC14493D-6186-4113-A175-D62E7861EA37}.Debug|x86.Build.0 = Debug|x86
+		{AC14493D-6186-4113-A175-D62E7861EA37}.Release|x86.ActiveCfg = Release|x86
+		{AC14493D-6186-4113-A175-D62E7861EA37}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
