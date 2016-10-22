@@ -77,9 +77,10 @@ namespace Study_Database
                     //errorCommand.ExecuteNonQuery();
                 }
             }
-            catch (Exception)
+            catch (SqlException er)
             {
-                throw;
+                MessageBox.Show("There was an error reported by SQL Server, " + er.Message);
+                //throw;
             }
 
             finally
