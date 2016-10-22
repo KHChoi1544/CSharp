@@ -39,16 +39,16 @@
             this.ultraGroupBox1.Dock = System.Windows.Forms.DockStyle.Top;
             this.ultraGroupBox1.Location = new System.Drawing.Point(0, 0);
             this.ultraGroupBox1.Name = "ultraGroupBox1";
-            this.ultraGroupBox1.Size = new System.Drawing.Size(862, 276);
+            this.ultraGroupBox1.Size = new System.Drawing.Size(862, 80);
             this.ultraGroupBox1.TabIndex = 0;
             this.ultraGroupBox1.Click += new System.EventHandler(this.ultraGroupBox1_Click);
             // 
             // ultraGroupBox2
             // 
             this.ultraGroupBox2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ultraGroupBox2.Location = new System.Drawing.Point(0, 276);
+            this.ultraGroupBox2.Location = new System.Drawing.Point(0, 80);
             this.ultraGroupBox2.Name = "ultraGroupBox2";
-            this.ultraGroupBox2.Size = new System.Drawing.Size(862, 289);
+            this.ultraGroupBox2.Size = new System.Drawing.Size(862, 485);
             this.ultraGroupBox2.TabIndex = 1;
             // 
             // UltraGrid_Original
