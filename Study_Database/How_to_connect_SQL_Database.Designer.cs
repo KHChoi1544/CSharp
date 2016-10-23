@@ -1,4 +1,4 @@
-﻿namespace Study_Database
+﻿namespace Study_CSharp_Database
 {
     partial class How_to_connect_SQL_Database
     {
@@ -30,6 +30,7 @@
         {
             this.user2Pc = new System.Windows.Forms.Button();
             this.user3Pc = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // user2Pc
@@ -51,17 +52,27 @@
             this.user3Pc.UseVisualStyleBackColor = true;
             this.user3Pc.Click += new System.EventHandler(this.user3Pc_Click);
             // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(27, 143);
+            this.textBox1.Multiline = true;
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(708, 20);
+            this.textBox1.TabIndex = 2;
+            // 
             // How_to_connect_SQL_Database
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(794, 261);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.user3Pc);
             this.Controls.Add(this.user2Pc);
             this.Name = "How_to_connect_SQL_Database";
             this.Text = "How_to_connect_SQL_Database";
             this.Load += new System.EventHandler(this.How_to_connect_SQL_Database_Load);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -69,6 +80,7 @@
 
         private System.Windows.Forms.Button user2Pc;
         private System.Windows.Forms.Button user3Pc;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
 

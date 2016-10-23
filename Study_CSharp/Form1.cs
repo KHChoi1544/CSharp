@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Study_CSharp
+namespace Study_CSharp_Main
 {
     public partial class Form1 : Form
     {

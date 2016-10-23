@@ -1,4 +1,4 @@
-﻿namespace Study_UltraGrid
+﻿namespace Study_CSharp_UltraGrid
 {
     partial class UltraGrid_Original
     {

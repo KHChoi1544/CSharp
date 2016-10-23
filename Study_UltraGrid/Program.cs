@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Study_UltraGrid
+namespace Study_CSharp_UltraGrid
 {
     static class Program
     {

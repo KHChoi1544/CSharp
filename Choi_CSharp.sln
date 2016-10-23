@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study_UltraGrid", "Study_UltraGrid\Study_UltraGrid.csproj", "{4C738958-9466-4884-876F-DE92CF87F602}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study_CSharp_UltraGrid", "Study_UltraGrid\Study_CSharp_UltraGrid.csproj", "{4C738958-9466-4884-876F-DE92CF87F602}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study_Database", "Study_Database\Study_Database.csproj", "{AC14493D-6186-4113-A175-D62E7861EA37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study_CSharp_Database", "Study_Database\Study_CSharp_Database.csproj", "{AC14493D-6186-4113-A175-D62E7861EA37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study_CSharp", "Study_CSharp\Study_CSharp.csproj", "{BE1AE44E-7D7A-4814-8125-CB339BB8EAF8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study_CSharp_Main", "Study_CSharp\Study_CSharp_Main.csproj", "{BE1AE44E-7D7A-4814-8125-CB339BB8EAF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,4 +1,4 @@
-﻿namespace Study_CSharp
+﻿namespace Study_CSharp_Main
 {
     partial class Form1
     {

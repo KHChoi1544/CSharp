@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Study_Database
+namespace Study_CSharp_Database
 {
     static class Program
     {
@@ -15,7 +15,7 @@ namespace Study_Database
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new How_to_connect_SQL_Database());
+            //Application.Run(new How_to_connect_SQL_Database());
         }
     }
 }

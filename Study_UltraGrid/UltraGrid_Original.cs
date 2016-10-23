@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Study_UltraGrid
+namespace Study_CSharp_UltraGrid
 {
     public partial class UltraGrid_Original : Form
     {

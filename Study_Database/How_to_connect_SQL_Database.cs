@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Study_Database
+namespace Study_CSharp_Database
 {
     public partial class How_to_connect_SQL_Database : Form
     {
@@ -59,9 +59,14 @@ namespace Study_Database
                         while (reader.Read())
                         {
                             // write the data on to the screen
+                            /*
                             Console.WriteLine(string.Format("{0} \t | {1} \t | {2} \t | {3}",
                                 // call the objects from their index
                                 reader[0], reader[1], reader[2], reader[3]));
+                            */
+                            textBox1.Text = string.Format("{0} \t | {1} \t | {2} \t | {3}",
+                                // call the objects from their index
+                                reader[0], reader[1], reader[2], reader[3]);
                         }
                     }
 
