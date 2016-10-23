@@ -76,11 +76,11 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Study_Database\Study_CSharp_Database.csproj">
+    <ProjectReference Include="..\Study_CSharp_Database\Study_CSharp_Database.csproj">
       <Project>{AC14493D-6186-4113-A175-D62E7861EA37}</Project>
       <Name>Study_CSharp_Database</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Study_UltraGrid\Study_CSharp_UltraGrid.csproj">
+    <ProjectReference Include="..\Study_CSharp_UltraGrid\Study_CSharp_UltraGrid.csproj">
       <Project>{4C738958-9466-4884-876F-DE92CF87F602}</Project>
       <Name>Study_CSharp_UltraGrid</Name>
     </ProjectReference>
