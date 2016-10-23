@@ -31,8 +31,7 @@ namespace Study_CSharp_Database
         {
             //var connection_string = System.Configuration.ConfigurationManager.connectionStrings["USER3-PC_AdventureWorks2012"].connectionString;
             var connection_string = System.Configuration.ConfigurationManager.ConnectionStrings["USER3-PC_AdventureWorks2012"].ConnectionString;
-
-
+            
             try
             {
                 using (SqlConnection conn = new SqlConnection())
