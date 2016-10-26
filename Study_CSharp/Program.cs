@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 using Study_CSharp_Database;
+using Study_CSharp_UltraGrid;
 
 
 namespace Study_CSharp_Main
@@ -22,7 +23,8 @@ namespace Study_CSharp_Main
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Form1());
 
-            Application.Run(new How_to_connect_SQL_Database());
+            //Application.Run(new How_to_connect_SQL_Database());
+            Application.Run(new CalendarStyle());
         }
     }
 }
