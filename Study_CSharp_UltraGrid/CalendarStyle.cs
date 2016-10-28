@@ -23,6 +23,7 @@ namespace Study_CSharp_UltraGrid
             calendarInfo.SelectedDateRanges.Add(DateTime.Today, 6);
 
             calendarInfo.EventManager.AllEventsEnabled = true;  
+             
         }
 
     }
