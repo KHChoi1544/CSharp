@@ -24,8 +24,7 @@ namespace Study_CSharp_Main
             //Application.Run(new Form1());
 
             //Application.Run(new How_to_connect_SQL_Database());
-            Application.Run(new CalendarStyle());
-             
+            Application.Run(new Study_CSharp_UltraGrid.Form1());
         }
     }
 }
